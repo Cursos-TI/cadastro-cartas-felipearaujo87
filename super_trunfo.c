@@ -91,7 +91,3 @@ int main() {
 
     return 0;
 }
-
-
-    printf("Digite o nome da cidade: "
-
